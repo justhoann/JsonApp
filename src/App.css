@@ -1,0 +1,8 @@
+a {
+	color: #fff !important;
+}
+
+.photo__page__btn__field {
+	display: flex;
+	justify-content: center;
+}
